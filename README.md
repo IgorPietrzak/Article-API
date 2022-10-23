@@ -1,10 +1,10 @@
 # Article-API
 
-A RESTful API which lets users create and access articles.
+A RESTful API which lets users interact with articles
 
 ## Details
 
-Users are able to make GET, POST, PATCH, PUT and DELETE requests using this API. All articles are stored in a mongo dB database. 
+This API was created with node.js with the use of the web application express.js and mongoose for making calls to the mongo dB database. 
 
 ### API response
 
